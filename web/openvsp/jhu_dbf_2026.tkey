@@ -1,0 +1,16 @@
+# VSP Tag Key File
+/home/koji/OneDrive/JHU/soc/DBF/26/jhu_dbf_2026.tkey
+12
+
+1,FuselageGeom_S_Surf0
+2,Landing Gear_S_Surf0
+3,Landing Gear_S_Surf1
+4,WingGeom_S_Surf0
+5,WingGeom_S_Surf1
+6,PropGeom_S_Surf0
+7,PropGeom_S_Surf1
+8,H Tail_S_Surf0
+9,H Tail_S_Surf1
+10,V Tail_S_Surf0
+11,Wheels_S_Surf0
+12,Wheels_S_Surf1

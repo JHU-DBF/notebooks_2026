@@ -1,0 +1,35 @@
+...Comp Geom...
+7 Num Comps
+12 Total Num Meshes
+3976 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+  879.685    828.172    939.004    910.575  FuselageGeom   
+   42.000     40.311      3.000      2.966  Landing Gear   
+   42.000     40.311      3.000      2.966  Landing Gear   
+ 1447.630   1355.384    678.192    654.052  WingGeom       
+   20.871     20.871      1.097      1.097  PropGeom       
+   20.871     20.871      1.097      1.097  PropGeom       
+  305.988    296.582     67.879     67.768  H Tail         
+  204.034    193.554     52.873     51.664  V Tail         
+    4.994      4.994      2.613      2.613  Wheels         
+    4.994      4.994      2.613      2.613  Wheels         
+-------------------------------------------------
+ 2973.069   2806.045   1751.367   1697.410  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+      879.685        828.172    FuselageGeom_S_Surf0
+       42.000         40.311    Landing Gear_S_Surf0
+       42.000         40.311    Landing Gear_S_Surf1
+      723.815        677.618    WingGeom_S_Surf0
+      723.815        677.766    WingGeom_S_Surf1
+       20.871         20.871    PropGeom_S_Surf0
+       20.871         20.871    PropGeom_S_Surf1
+      152.994        148.291    H Tail_S_Surf0 
+      152.994        148.291    H Tail_S_Surf1 
+      204.034        193.554    V Tail_S_Surf0 
+        4.994          4.994    Wheels_S_Surf0 
+        4.994          4.994    Wheels_S_Surf1 
+WARNING: 2 open meshes merged
+     Merged: WingGeom
+     Merged: H Tail

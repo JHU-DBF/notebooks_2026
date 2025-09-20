@@ -1,0 +1,17 @@
+# VSPGEOM Tag Key File
+/home/koji/OneDrive/JHU/soc/DBF/26/jhu_dbf_2026.vspgeom
+12
+
+# tag#,geom#,surf#,gname,gid,ssname1,ssname2,...,ssid1,ssid2,...
+1,4,0,FuselageGeom_S,FZLMEUPTPC
+2,1,0,Landing Gear_S,XAUOQYXTMD
+3,1,1,Landing Gear_S,XAUOQYXTMD
+4,2,0,WingGeom_S,TQGDGEGDDM
+5,2,1,WingGeom_S,TQGDGEGDDM
+6,6,0,PropGeom_S,EBDMSGQPCQ
+7,6,1,PropGeom_S,EBDMSGQPCQ
+8,0,0,H Tail_S,XQBIMHWUMW
+9,0,1,H Tail_S,XQBIMHWUMW
+10,5,0,V Tail_S,FPQNOWWISP
+11,3,0,Wheels_S,GJGCUSLKLK
+12,3,1,Wheels_S,GJGCUSLKLK
