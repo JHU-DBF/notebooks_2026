@@ -18,4 +18,9 @@ $ cd AirfoilDatabase
 $ pip install .
 ```
 
-To use this module you will need the xfoil program, you can get it [here](https://web.mit.edu/drela/Public/web/xfoil/)
+# Required System Programs
+To use the `airfoil_db` module you will need the xfoil program, you can get it [here](https://web.mit.edu/drela/Public/web/xfoil/)
+
+To render LaTeX formatting you need to install LaTeX. You can get it [here](https://www.tug.org/texlive/)
+- For windows you probably want MiKTeX
+    - Follow [this guide](https://gist.github.com/Foadsf/768e6f023c45e3d078be7793cdb9e102)
