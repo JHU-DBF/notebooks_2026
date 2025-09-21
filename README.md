@@ -17,4 +17,5 @@ $ git clone https://github.com/usuaero/AirfoilDatabase.git
 $ cd AirfoilDatabase
 $ pip install .
 ```
-**You might have to use Mac/Linux for this!**
+
+To use this module you will need the xfoil program, you can get it [here](https://web.mit.edu/drela/Public/web/xfoil/)
