@@ -1,3 +1,4 @@
 .vscode/
 tmp/
 airfoils/
+__pycache__/
